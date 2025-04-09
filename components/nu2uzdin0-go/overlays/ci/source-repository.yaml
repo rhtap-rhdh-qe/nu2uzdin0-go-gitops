@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: nu2uzdin0-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/nu2uzdin0-go
